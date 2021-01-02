@@ -24,7 +24,7 @@
     </tr>
     <tr>
         <td></td>
-        <td><button name="pzy" class="btn btn-primary">search</button></td>
+        <td><button name="pzy" class="btn btn-info">search</button></td>
     </tr></table>
 </form>
 
